@@ -1,7 +1,6 @@
 # Задание 3 по КГ (Анимация травы)
 
-
-https://user-images.githubusercontent.com/64921559/119541739-6fe63000-bd97-11eb-90ce-37ee6e2e1c02.mp4
+https://user-images.githubusercontent.com/64921559/119541839-8e4c2b80-bd97-11eb-9cdb-960fdd04667f.mp4
 
 
 Реализована база
